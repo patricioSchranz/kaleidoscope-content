@@ -44,7 +44,7 @@ Du könntest auch einfach schreiben:
 
 Ich würde dann wissen, dass wir uns in der Themenentwicklung befinden. Die formelleren Prompts sind vor allem bei den Übergängen zwischen den Chats hilfreich.
 
-## 
+## Datei Schema
 
 - Jaguar · 01 — Konzeption
     
